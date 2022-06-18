@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BrowserViz"]
+	path = BrowserViz
+	url = https://github.com/paul-shannon/browserviz
+	shallow = true
+	registered = true
+[submodule "igvR"]
+	path = igvR
+	url = https://github.com/paul-shannon/igvr
+	shallow = true
+	registered = true
