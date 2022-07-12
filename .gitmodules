@@ -8,8 +8,3 @@
 	url = https://github.com/paul-shannon/browserviz
 	shallow = true
 	registered = true
-[submodule "igvR"]
-	path = igvR
-	url = https://github.com/paul-shannon/igvr
-	shallow = true
-	registered = true
